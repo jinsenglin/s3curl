@@ -9,3 +9,7 @@ git clone https://github.com/jinsenglin/s3curl.git
 cd s3curl
 ./demo.sh
 ```
+
+# Issues
+
+Return 'AccessDenied' in OSX.
