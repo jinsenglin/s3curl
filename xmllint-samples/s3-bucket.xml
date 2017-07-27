@@ -1,0 +1,29 @@
+<ListBucketResult>
+  <Name>dashboard</Name>
+  <Prefix/>
+  <Marker/>
+  <MaxKeys>1000</MaxKeys>
+  <IsTruncated>false</IsTruncated>
+  <Contents>
+    <Key>dashboard-rc.16.tgz</Key>
+    <LastModified>2017-07-07T08:46:42.598Z</LastModified>
+    <ETag>"b9aab2e5547a9ab0b9ac46792153dfc0-49"</ETag>
+    <Size>254078918</Size>
+    <StorageClass>STANDARD</StorageClass>
+    <Owner>
+      <ID>jimlin</ID>
+      <DisplayName>Jim Lin</DisplayName>
+    </Owner>
+  </Contents>
+  <Contents>
+    <Key>dashboard-rc.17.tgz</Key>
+    <LastModified>2017-07-07T09:37:12.596Z</LastModified>
+    <ETag>"a0986be65bee950f701a2f69aca56973-49"</ETag>
+    <Size>254073105</Size>
+    <StorageClass>STANDARD</StorageClass>
+    <Owner>
+      <ID>jimlin</ID>
+      <DisplayName>Jim Lin</DisplayName>
+    </Owner>
+  </Contents>
+</ListBucketResult>
