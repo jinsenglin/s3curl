@@ -1,0 +1,5 @@
+<root>
+    <subnote>This is the subnote content</subnote>
+    <elem name="elem1">First elem</elem>
+    <elem name="elem2">Second elem</elem>
+</root>
